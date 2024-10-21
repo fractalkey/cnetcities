@@ -1,8 +1,5 @@
 README.md
 
-Here’s a simple yet engaging way to structure your `README.md` for "cnetcities" while keeping all of your original text intact:
-
-```markdown
 # Welcome to CNETCITIES! 🌐
 
 **Are you lost?** 🌀
@@ -29,22 +26,6 @@ If it does anyone else any good, I consider that a bonus. 🎁
 > [This user resents Windows for its Embrace, Extend, Extinguish practices and bloated spyware of an OS] 💻🔥
 ```
 
-This version breaks up the content with some headers, bullet points, and emojis for a playful, retro web vibe—while maintaining the text exactly as you’ve written it!
 
-    _nnnn_                      
-        dGGGGMMb     ,"""""""""""""".
-       @p~qp~~qMb    | Linux Rules! |
-       M|@||@) M|   _;..............'
-       @,----.JM| -'
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMM|   .'
-     `-'       `--' hjm			embrace the penguin
+embrace the penguin
 
